@@ -1,0 +1,38 @@
+body{
+    background-color: #eca;
+}
+.introduccion{
+  text-align: center;
+  font-style: italic;
+}
+@font-face { /* Cargamos la fuente Fascinate Incline  */
+    font-family: 'Fascinate';
+    src: url('../Ejercicio9/fonts/FascinateInline-Regular.ttf') format('truetype'); 
+    
+}
+@font-face { /* Cargamos la fuente Fascinate Incline  */
+    font-family: 'Permanent';
+    src: url('../Ejercicio9/fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype'); 
+    
+}
+@font-face { /* Cargamos la Open Sans light italic 300  */
+    font-family: 'Open_Sans';
+    src: url('../Ejercicio9/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf') format('truetype'); 
+    
+}
+h1 {
+    font-family: 'Fascinate';
+    text-transform: uppercase; /* Hace que el texto esté en mayúsculas */
+    text-align: center;
+    font-size: 250%;
+}
+.traduccion{
+    font-family: 'Open_Sans';
+    color: white;
+    text-align: right;
+    font-size: 200%;
+}
+.latin{
+    font-family: 'Permanent';
+    font-size: 200%;
+}
