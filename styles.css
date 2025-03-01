@@ -7,17 +7,17 @@ body{
 }
 @font-face { /* Cargamos la fuente Fascinate Incline  */
     font-family: 'Fascinate';
-    src: url('./fonts/FascinateInline-Regular.ttf') format('truetype'); 
+    src: url('./fuentes/FascinateInline-Regular.ttf') format('truetype'); 
     
 }
 @font-face { /* Cargamos la fuente Permanet Maker  */
     font-family: 'Permanent';
-    src: url('./fonts/Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype'); 
+    src: url('./fuentes/Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype'); 
     
 }
 @font-face { /* Cargamos la Open Sans light italic 300  */
     font-family: 'Open_Sans';
-    src: url('./fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf') format('truetype'); 
+    src: url('./fuentes/Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf') format('truetype'); 
     
 }
 h1 {
